@@ -1,0 +1,13 @@
+
+#main-header-container {
+  display: none !important;
+}
+
+#padpage-container {
+  margin-top: 0px !important;
+  height: 100% !important;
+}
+
+.hp-editor-footer-buttons {
+  display: none !important;
+}
